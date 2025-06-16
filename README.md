@@ -1,1 +1,1 @@
-This is the official replication code of PGNNCert (https://arxiv.org/abs/2503.18503).
+This is the official replication code of the paper "Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations" (https://arxiv.org/abs/2503.18503), or called PGNNCert.
